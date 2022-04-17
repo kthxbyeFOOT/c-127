@@ -1,0 +1,22 @@
+.heading{
+    font-size: 43px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .note{
+    font-size: 25px;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    
+    body{
+    background-size: cover;
+    }
+    
+#song{
+font-size: 20px;
+margin:5px;
+font-family: cursive;
+}
